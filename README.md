@@ -1,7 +1,4 @@
-# PRODIGY_GA_03 — Text Generation with Markov Chains
-
-> **ProDigy Infotech · Generative AI Internship · Task 03**
-
+> **Python • Natural Language Processing • Markov Chains**
 Implement a text generation algorithm using Markov chains — a statistical model that predicts the probability of a word or character based on the previous one(s).
 
 ---
