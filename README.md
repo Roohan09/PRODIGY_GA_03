@@ -1,7 +1,8 @@
-># Text Generation Using Markov Chains
-> **Python • Natural Language Processing • Markov Chains**
-Implement a text generation algorithm using Markov chains — a statistical model that predicts the probability of a word or character based on the previous one(s).
+# Text Generation Using Markov Chains
 
+> **Python • Natural Language Processing • Markov Chains**
+
+This project demonstrates text generation using **Markov Chains**, a probabilistic language model that learns patterns from a text corpus and predicts the next word or character based on previously observed sequences.
 ---
 
 ## 📂 Repository Structure
