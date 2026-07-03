@@ -1,5 +1,5 @@
-> **Python • Natural Language Processing • Markov Chains**
-Implement a text generation algorithm using Markov chains — a statistical model that predicts the probability of a word or character based on the previous one(s).
+> *Python • Natural Language Processing • Markov Chains*
+**Implement a text generation algorithm using Markov chains — a statistical model that predicts the probability of a word or character based on the previous one(s).**
 
 ---
 
