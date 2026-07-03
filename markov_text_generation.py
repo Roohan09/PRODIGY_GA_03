@@ -109,7 +109,7 @@ class WordMarkovChain:
 
             text = " ".join(words)
             results.append(text)
-            print(f"\n[Word-Level Generation {i + 1}]\n{text}")
+            print(f"\n[Generated Text {i + 1}]\n{text}")
 
         return results
 
@@ -307,7 +307,6 @@ def quick_demo(train_file: str = "train_data.txt") -> None:
 
     print("\n" + "=" * 55)
     print("  Markov Chain Text Generation")
-    print("  ProDigy Infotech — Task 03")
     print("=" * 55)
 
     # Load training data
